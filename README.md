@@ -8,4 +8,4 @@ You can update the game according to you by creating a pull request and if the u
 <br>
 <br>
 <br>
-<h2>Check the Budget Calculator here </h2>   Click the link in the description or <a href = "https://jayanttokas.github.io/Pigdicegame.github.io/"> click here </a>
+<h2>Check the Budget Calculator here </h2>   Click the link in the description or <a href = "https://jayanttokas.github.io/BudgetCalculator.github.io/."> click here </a>
